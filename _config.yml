@@ -20,9 +20,9 @@ title                    : "YS"
 title_separator          : "-"
 name                     : "Rui Jin"
 description              : "Oceanography Ph. D."
-url                      : "https://ruijinsz.github.io"
+url                      : "https://RuiJinSZ.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "RuiJinSZ/ruijin.github.io"
+repository               : "RuiJinSZ/RuiJinSZ.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
