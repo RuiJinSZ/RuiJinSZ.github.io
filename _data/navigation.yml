@@ -6,8 +6,8 @@ main:
     url: /research/
   - title: "Publications"
     url: /publications/
-  - title: "Codes"
-    url: /codes/
+  - title: "CV"
+    url: /assets/docs/CV.pdf
   - title: "Teaching"
     url: /teaching/
   - title: "Gallery"
