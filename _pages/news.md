@@ -13,7 +13,7 @@ toc_icon: "columns"
 - I gave a talk at EPS Journal Club at Johns Hopkins.
 
 ### Feburary
-- My 1st-and-corresponding-author paper, [Comparing two ocean biogeochemical models of Chesapeake Bay with and without the sulfur cycle instead highlights the importance of particle sinking, burial, organic matter, nitrification and light attenuation](https://authors.elsevier.com/a/1gbuW5CmkuuOzX), has been published in *Ocean Modelling*
+- My 1st-author paper, [Comparing two ocean biogeochemical models of Chesapeake Bay with and without the sulfur cycle instead highlights the importance of particle sinking, burial, organic matter, nitrification and light attenuation](https://authors.elsevier.com/a/1gbuW5CmkuuOzX), has been published in *Ocean Modelling*
 
 ## 2022
 ### December
