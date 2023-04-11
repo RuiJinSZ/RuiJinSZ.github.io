@@ -17,7 +17,7 @@ toc_icon: "columns"
 
 ## 2022
 ### December
-- I presented my work at AGU Falling Metting in Chiago, Illinois
+- I presented my work at AGU Falling Metting in Chicago, Illinois
 
 ### June
 - I gave a talk at Chesapeake Community Research Symposium in Annapolis, Maryland
