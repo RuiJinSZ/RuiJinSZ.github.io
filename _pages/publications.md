@@ -14,5 +14,5 @@ toc_icon: "columns"
 
 [2] **Jin, R.**, Pradal, M.A., Hantsoo, K., Gnanadesikan, A., St-Laurent, P. and Bjerrum, C.J. [Constructing a Model Including the Cryptic Sulfur Cycle in Chesapeake Bay Requires Judicious Choices for Key Processes and Parameters](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4399169). *Under review at MethodsX*
 
-[1] **Jin, R.**, Pradal, M.A., Hantsoo, K., Gnanadesikan, A., St-Laurent, P. and Bjerrum, C.J. [Comparing two ocean biogeochemical models of Chesapeake Bay with and without the sulfur cycle instead highlights the importance of particle sinking, burial, organic matter, nitrification and light attenuation](https://authors.elsevier.com/a/1gbuW5CmkuuOzX). *Ocean Modelling*
+[1] **Jin, R.**, Pradal, M.A., Hantsoo, K., Gnanadesikan, A., St-Laurent, P. and Bjerrum, C.J. [Comparing two ocean biogeochemical models of Chesapeake Bay with and without the sulfur cycle instead highlights the importance of particle sinking, burial, organic matter, nitrification and light attenuation](https://www.sciencedirect.com/science/article/abs/pii/S1463500323000161). *Ocean Modelling*
 
