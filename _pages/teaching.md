@@ -5,6 +5,9 @@ permalink: /teaching/
 date: 2021-8-26
 categories: pages
 ---
+## 2023 Fall
+**Teaching Assistant**, AS.270.103.01 Introduction to Global Environmental Change, Johns Hopkins University
+
 ## 2023 Spring
 **Teaching Assistant**, AS.271.107.01 Introduction to Sustainability, Johns Hopkins University
 
