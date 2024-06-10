@@ -10,7 +10,7 @@ toc_label: "Category"
 toc_icon: "columns"
 ---
 ## 2024
-[1] **Jin, R.**, Holder, C. and Gnanadesikan, A. Using random forests to compare the sensitivity of observed particulate inorganic and particulate organic carbon to environmental conditions. *submitted to Geophysical Research Letters*
+[1] **Jin, R.**, Holder, C. and Gnanadesikan, A. [Using random forests to compare the sensitivity of observed particulate inorganic and particulate organic carbon to environmental conditions.](https://essopenarchive.org/doi/full/10.22541/essoar.170956958.88787757) *in rev for Geophysical Research Letters*
 
 ## 2023
 [5] **Jin, R.**, Gnanadesikan, A., Pradal, M.A.and St-Laurent, P. [How does colored dissolved organic matter (CDOM) influence the distribution and intensity of hypoxia in coastal oceans?](https://essopenarchive.org/doi/full/10.22541/essoar.169603558.88038686). *in rev for Journal of Geophysical Research: Oceans*
