@@ -9,7 +9,7 @@ categories: pages
 
 Previous biogeochemical models for Chesapeake Bay have oversimplified representations of the impacts of sulfur cycling. In this project, we implemented a previously published biogeochemical code (BioRedoxCNPS) developed for open-ocean waters that includes “cryptic” microbial sulfur cycling within the ChesROMS physical model of the Chesapeake Bay. 
 
-{% include figure image_path="/assets/images/research/1.jpeg" caption="Schematic of the merged biogeochemical code develped as the new baseline model for the Bay"%}
+{% include figure image_path="/assets/images/research/1.jpeg" caption="Schematic of the merged biogeochemical code developed as the new baseline model for the Bay"%}
 
 However, translating the model to the Bay turns out not to be that straightforward. Model comparisons show that particle sinking velocities, burial, organic matter, nitrification and light attenuation all have significant impacts on simulation results. Further sensitivity studies are conducted, and we propose a new baseline model for the Bay, which includes DOM-dependent absorption, a higher O2:N stoichiometry and easier nitrification. Our new model incorporates cryptic sulfur cycling and demonstrates comparable skill in predicting oxygen as ChesROMS_ECB, but also has improved simulation of nitrogen species compared to both the original codes.
 
